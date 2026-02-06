@@ -4,10 +4,6 @@ Transform emojis and images into beautiful pixel art with this powerful web-base
 
 ![Emoji2Pixel Banner](https://img.shields.io/badge/Emoji2Pixel-v1.0-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![Languages](https://img.shields.io/badge/languages-8-orange)
 
-## 📖 Documentation
-
-**Read this in other languages**: [简体中文](docs/README.zh-CN.md) | [Français](docs/README.fr.md) | [Deutsch](docs/README.de.md) | [Italiano](docs/README.it.md) | [日本語](docs/README.ja.md) | [한국어](docs/README.ko.md) | [Español](docs/README.es.md)
-
 ## ✨ Features
 
 ### 🖼️ **Multi-Source Input**
@@ -145,6 +141,10 @@ emoji2pixel/
 │   ├── en-US.json      # English translations
 │   ├── zh-CN.json      # Chinese translations
 │   └── ...             # Other languages
+├── docs/               # Multi-language documentation
+│   ├── README.en.md    # English documentation
+│   ├── README.zh-CN.md # Chinese documentation
+│   └── ...             # Other languages
 └── scripts/            # Build utilities
     └── generate_locales_index.py
 ```
@@ -182,7 +182,7 @@ Contributions are welcome! Here's how you can help:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](../LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -202,5 +202,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Made with 🎨 and ⌨️**
 
 If you find this project useful, please consider giving it a ⭐!
+
+[简体中文](README.zh-CN.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [Italiano](README.it.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md)
 
 </div>
