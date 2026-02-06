@@ -2,6 +2,8 @@
 
 Transformez des emojis et des images en magnifiques œuvres pixel art avec ce puissant convertisseur web. Créez des animations époustouflantes, personnalisez chaque détail et exportez vos créations en images ou GIF.
 
+**Fonctionnalité Principale** : Aperçu professionnel d'animations et de pixel art pour les matrices LED WS2812, avec simulation réaliste du rendu LED.
+
 ![Emoji2Pixel Badge](https://img.shields.io/badge/Emoji2Pixel-v1.0-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![Languages](https://img.shields.io/badge/languages-8-orange)
 
 ## ✨ Fonctionnalités
@@ -24,10 +26,10 @@ Transformez des emojis et des images en magnifiques œuvres pixel art avec ce pu
 - **Rotation**: Tournez dans n'importe quelle direction (0-360°)
 - **Canevas Interactif**: Manipulation directe par glisser-déposer + Maintenez Shift pour pivoter
 
-### 🎨 **Moteur de Rendu Puissant**
+### 🎨 **Moteur de Rendu Puissant (Aperçu Professionnel Matrice LED WS2812)**
 - **Deux Modes de Rendu**:
-  - **Mode Idéal**: Pixel art professionnel avec espaces et bordures personnalisables
-  - **Mode Brut**: Rendu de pixels pur pour un style rétro authentique
+  - **Mode Idéal**: Simule WS2812 avec diffuseur - la lumière de chaque LED se diffuse uniformément pour un effet d'affichage professionnel
+  - **Mode Brut**: Simule l'apparence WS2812 nue - points de pixels LED directs sans diffusion, montrant l'effet LED brut
 - **Canevas Flexible**: Taille de grille ajustable (8x8 à 128x128 pixels)
 - **Styles de Pixels**: Choisissez parmi pixels carrés, arrondis ou circulaires
 - **Quantification des Couleurs**: Réduisez la palette de couleurs à 2-256 couleurs pour une esthétique rétro

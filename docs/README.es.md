@@ -2,6 +2,8 @@
 
 Transforma emojis e imágenes en hermoso arte de píxeles con este poderoso conversor web. Crea animaciones impresionantes, personaliza cada detalle y exporta tus creaciones como imágenes o GIFs.
 
+**Función Principal**: Vista previa profesional de animaciones y arte de píxeles para pantallas de matriz LED WS2812, con simulación realista de renderizado LED.
+
 ![Emoji2Pixel Badge](https://img.shields.io/badge/Emoji2Pixel-v1.0-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![Languages](https://img.shields.io/badge/languages-8-orange)
 
 ## ✨ Características
@@ -24,10 +26,10 @@ Transforma emojis e imágenes en hermoso arte de píxeles con este poderoso conv
 - **Rotación**: Gira en cualquier dirección (0-360°)
 - **Lienzo Interactivo**: Manipulación directa con clic y arrastre + Mantén Shift para rotar
 
-### 🎨 **Potente Motor de Renderizado**
+### 🎨 **Potente Motor de Renderizado (Vista Previa Profesional Matriz LED WS2812)**
 - **Dos Modos de Renderizado**:
-  - **Modo Ideal**: Arte de píxeles profesional con espacios y bordes personalizables
-  - **Modo Bare**: Renderizado de píxeles puro para un estilo retro auténtico
+  - **Modo Ideal**: Simula WS2812 con difusor - la luz de cada LED se difunde uniformemente para un efecto de visualización profesional
+  - **Modo Bare**: Simula la apariencia WS2812 desnuda - puntos de píxeles LED directos sin difusión, mostrando el efecto LED crudo
 - **Lienzo Flexible**: Tamaño de cuadrícula ajustable (8x8 a 128x128 píxeles)
 - **Estilos de Píxeles**: Elige entre píxeles cuadrados, redondeados o circulares
 - **Cuantización de Color**: Reduce la paleta de colores a 2-256 colores para estética retro

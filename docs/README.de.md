@@ -2,6 +2,8 @@
 
 Verwandeln Sie Emojis und Bilder mit diesem leistungsstarken webbasierten Konverter in wunderschöne Pixel-Art. Erstellen Sie atemberaubende Animationen, passen Sie jedes Detail an und exportieren Sie Ihre Kreationen als Bilder oder GIFs.
 
+**Kernfunktion**: Professionelle Animations- und Pixel-Art-Vorschau für WS2812 LED-Matrix-Displays mit realistischer LED-Rendering-Simulation.
+
 ![Emoji2Pixel Badge](https://img.shields.io/badge/Emoji2Pixel-v1.0-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![Languages](https://img.shields.io/badge/languages-8-orange)
 
 ## ✨ Funktionen
@@ -24,10 +26,10 @@ Verwandeln Sie Emojis und Bilder mit diesem leistungsstarken webbasierten Konver
 - **Drehung**: Drehen Sie in jede Richtung (0-360°)
 - **Interaktive Leinwand**: Direkte Manipulation mit Klicken & Ziehen + Shift-Taste gedrückt halten zum Drehen
 
-### 🎨 **Leistungsstarke Rendering-Engine**
+### 🎨 **Leistungsstarke Rendering-Engine (WS2812 LED-Matrix Professionelle Vorschau)**
 - **Zwei Render-Modi**:
-  - **Idealer Modus**: Professionelle Pixel-Art mit anpassbaren Abständen und Rändern
-  - **Bare-Modus**: Reines Pixel-Rendering für authentischen Retro-Stil
+  - **Idealer Modus**: Simuliert WS2812 mit Diffusor - das Licht jeder LED verteilt sich gleichmäßig für professionellen Display-Effekt
+  - **Bare-Modus**: Simuliert blanke WS2812-Erscheinung - direkte LED-Pixelpunkte ohne Diffusion, zeigt rohen LED-Effekt
 - **Flexible Leinwand**: Einstellbare Rastergröße (8x8 bis 128x128 Pixel)
 - **Pixel-Stile**: Wählen Sie zwischen quadratischen, abgerundeten oder kreisförmigen Pixeln
 - **Farbquantisierung**: Reduzieren Sie die Farbpalette auf 2-256 Farben für Retro-Ästhetik
