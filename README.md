@@ -62,13 +62,13 @@ Built-in translations for 8 languages:
 ## 🚀 Quick Start
 
 ### Online Demo
-Visit the live demo at: [Your Demo URL]
+Visit the live demo at: [https://thomas-hiddenpeak.github.io/emoji2pixel](https://thomas-hiddenpeak.github.io/emoji2pixel)
 
 ### Local Development
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/emoji2pixel.git
+   git clone https://github.com/thomas-hiddenpeak/emoji2pixel.git
    cd emoji2pixel
    ```
 
@@ -188,8 +188,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📮 Contact & Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/emoji2pixel/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/emoji2pixel/discussions)
+- **Issues**: [GitHub Issues](https://github.com/thomas-hiddenpeak/emoji2pixel/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/thomas-hiddenpeak/emoji2pixel/discussions)
 
 ---
 
